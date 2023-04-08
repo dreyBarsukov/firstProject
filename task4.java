@@ -17,7 +17,9 @@ public class task4 {
             System.out.println(instant);
             System.out.println(instant);
             System.out.println(instant);
-            
+            System.out.println(instant);
+            System.out.println("Create new version of java");
+
 
         }
     }
